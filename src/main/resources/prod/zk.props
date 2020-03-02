@@ -1,0 +1,4 @@
+#zookeeperStr=namenode:2181,datanode1:2181,datanode2:2181
+#zookeeperStr=192.168.10.211:2182
+zookeeperStr=data1:2181,data2:2181,data3:2181
+#zookeeperStr=jd_cloud:32792
