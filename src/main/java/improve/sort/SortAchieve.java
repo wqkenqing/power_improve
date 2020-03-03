@@ -19,6 +19,32 @@ public interface SortAchieve {
     * @date:
     **/
     void bubbleSort();
-
+    /**
+    * @desc: 插入排序
+    * @date: 2020/3/3
+    **/
     void insertSort();
+    /**
+    * @desc: 选择排序
+    * @date: 2020/3/3
+    **/
+    void sectionSort();
+
+    /**
+    * @desc: 希尔排序
+    * @date: 2020/3/3
+    **/
+    void shellSort();
+
+    /**
+    * @desc: 快排序
+    * @date: 2020/3/3
+    **/
+    void quickSort();
+
+    /**
+    * @desc: 归并排序
+    * @date: 2020/3/3
+    **/
+    void mergeSort();
 }
